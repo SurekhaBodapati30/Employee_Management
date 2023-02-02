@@ -1,0 +1,17 @@
+C:\Practice\CURD_Operation\Employee.CURD.WebApi\Employee.CURD.Service\bin\Debug\net6.0\Employee.CURD.Service.deps.json
+C:\Practice\CURD_Operation\Employee.CURD.WebApi\Employee.CURD.Service\bin\Debug\net6.0\Employee.CURD.Service.dll
+C:\Practice\CURD_Operation\Employee.CURD.WebApi\Employee.CURD.Service\bin\Debug\net6.0\Employee.CURD.Service.pdb
+C:\Practice\CURD_Operation\Employee.CURD.WebApi\Employee.CURD.Service\obj\Debug\net6.0\Employee.CURD.Service.csproj.AssemblyReference.cache
+C:\Practice\CURD_Operation\Employee.CURD.WebApi\Employee.CURD.Service\obj\Debug\net6.0\Employee.CURD.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice\CURD_Operation\Employee.CURD.WebApi\Employee.CURD.Service\obj\Debug\net6.0\Employee.CURD.Service.AssemblyInfoInputs.cache
+C:\Practice\CURD_Operation\Employee.CURD.WebApi\Employee.CURD.Service\obj\Debug\net6.0\Employee.CURD.Service.AssemblyInfo.cs
+C:\Practice\CURD_Operation\Employee.CURD.WebApi\Employee.CURD.Service\obj\Debug\net6.0\Employee.CURD.Service.csproj.CoreCompileInputs.cache
+C:\Practice\CURD_Operation\Employee.CURD.WebApi\Employee.CURD.Service\obj\Debug\net6.0\Employee.CURD.Service.dll
+C:\Practice\CURD_Operation\Employee.CURD.WebApi\Employee.CURD.Service\obj\Debug\net6.0\refint\Employee.CURD.Service.dll
+C:\Practice\CURD_Operation\Employee.CURD.WebApi\Employee.CURD.Service\obj\Debug\net6.0\Employee.CURD.Service.pdb
+C:\Practice\CURD_Operation\Employee.CURD.WebApi\Employee.CURD.Service\obj\Debug\net6.0\ref\Employee.CURD.Service.dll
+C:\Practice\CURD_Operation\Employee.CURD.WebApi\Employee.CURD.Service\bin\Debug\net6.0\Employee.CURD.Model.dll
+C:\Practice\CURD_Operation\Employee.CURD.WebApi\Employee.CURD.Service\bin\Debug\net6.0\Employee.CURD.Model.pdb
+C:\Practice\CURD_Operation\Employee.CURD.WebApi\Employee.CURD.Service\obj\Debug\net6.0\Employee.CURD.Service.csproj.CopyComplete
+C:\Practice\CURD_Operation\Employee.CURD.WebApi\Employee.CURD.Service\bin\Debug\net6.0\Employee.CRUD.Repository.dll
+C:\Practice\CURD_Operation\Employee.CURD.WebApi\Employee.CURD.Service\bin\Debug\net6.0\Employee.CRUD.Repository.pdb

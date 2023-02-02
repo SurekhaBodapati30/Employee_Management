@@ -1,0 +1,12 @@
+C:\Practice\CURD_Operation\Employee.CURD.WebApi\Employee.CURD.Model\bin\Debug\net6.0\Employee.CURD.Model.deps.json
+C:\Practice\CURD_Operation\Employee.CURD.WebApi\Employee.CURD.Model\bin\Debug\net6.0\Employee.CURD.Model.dll
+C:\Practice\CURD_Operation\Employee.CURD.WebApi\Employee.CURD.Model\bin\Debug\net6.0\Employee.CURD.Model.pdb
+C:\Practice\CURD_Operation\Employee.CURD.WebApi\Employee.CURD.Model\obj\Debug\net6.0\Employee.CURD.Model.csproj.AssemblyReference.cache
+C:\Practice\CURD_Operation\Employee.CURD.WebApi\Employee.CURD.Model\obj\Debug\net6.0\Employee.CURD.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice\CURD_Operation\Employee.CURD.WebApi\Employee.CURD.Model\obj\Debug\net6.0\Employee.CURD.Model.AssemblyInfoInputs.cache
+C:\Practice\CURD_Operation\Employee.CURD.WebApi\Employee.CURD.Model\obj\Debug\net6.0\Employee.CURD.Model.AssemblyInfo.cs
+C:\Practice\CURD_Operation\Employee.CURD.WebApi\Employee.CURD.Model\obj\Debug\net6.0\Employee.CURD.Model.csproj.CoreCompileInputs.cache
+C:\Practice\CURD_Operation\Employee.CURD.WebApi\Employee.CURD.Model\obj\Debug\net6.0\Employee.CURD.Model.dll
+C:\Practice\CURD_Operation\Employee.CURD.WebApi\Employee.CURD.Model\obj\Debug\net6.0\refint\Employee.CURD.Model.dll
+C:\Practice\CURD_Operation\Employee.CURD.WebApi\Employee.CURD.Model\obj\Debug\net6.0\Employee.CURD.Model.pdb
+C:\Practice\CURD_Operation\Employee.CURD.WebApi\Employee.CURD.Model\obj\Debug\net6.0\ref\Employee.CURD.Model.dll

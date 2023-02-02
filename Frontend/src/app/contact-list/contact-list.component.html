@@ -1,0 +1,27 @@
+<form [formGroup]="employeeFormGroup" class="form" (ngSubmit)="onSubmit()">
+  <label for="first-name">First Name </label>
+  <input
+    id="first-name"
+    type="text"
+    placeholder="Enter your first name"
+    formControlName="firstName"
+  />
+  <label for="last-name">Last Name </label>
+  <input id="last-name" type="text" formControlName="lastName" />
+  <label for="email">Email </label>
+  <input
+    id="email"
+    type="text"
+    placeholder="Ex:abc@gmail.com"
+    formControlName="email"
+  />
+  <label for="mobile">mobile </label>
+  <input id="mobile" type="text" formControlName="mobile" />
+  <label for="salary">salary </label>
+  <input id="salary" type="number" formControlName="salary" />
+  <label for="role">role </label>
+  <input id="role" type="text" formControlName="role" />
+  <div class="button">
+    <button type="submit" (ngSubmit)="onSubmit()">submit</button>
+  </div>
+</form>

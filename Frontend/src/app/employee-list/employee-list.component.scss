@@ -1,0 +1,24 @@
+.table {
+  display: flex;
+  justify-content: start;
+  align-items: start;
+  margin-top: 30px;
+}
+table,
+th,
+td {
+  align-self: center;
+  border: 1px solid black;
+  border-radius: 1px;
+  border-collapse: collapse;
+}
+button {
+  background-color: grey;
+  color: white;
+}
+
+@media (min-width: 360px) and (max-width: 500px) {
+  table {
+    width: 100vw;
+  }
+}

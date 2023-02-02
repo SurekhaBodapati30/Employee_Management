@@ -1,0 +1,63 @@
+<div class="input-group">
+  <input
+    type="search"
+    class="form-control"
+    placeholder="Search"
+    aria-label="Search"
+    aria-describedby="search-addon"
+    [(ngModel)]="FirstName"
+  />
+  <button
+    type="button"
+    (click)="onSearch(FirstName)"
+    class="btn btn-outline-primary"
+  >
+    search
+  </button>
+</div>
+<div class="table">
+  <table>
+    <tr>
+      <th>Id</th>
+      <th>FirstName</th>
+      <th>LastName</th>
+      <th>Email</th>
+      <th>Mobile</th>
+      <th>Salary</th>
+      <th>Role</th>
+      <th>Update</th>
+      <th>Delete</th>
+    </tr>
+    <tr
+      *ngFor="
+        let employee of employeelist
+          | paginate
+            : {
+                currentPage: page,
+                itemsPerPage: pageSize,
+                totalItems: total
+              };
+        let i = index
+      "
+    >
+      <td>{{ i + 1 }}</td>
+      <td>{{ employee.firstName }}</td>
+      <td>{{ employee.lastName }}</td>
+      <td>{{ employee.email }}</td>
+      <td>{{ employee.mobile }}</td>
+      <td>{{ employee.salary }}</td>
+      <td>{{ employee.role }}</td>
+      <td><button (click)="updateEmployee(employee.id)">update</button></td>
+      <td>
+        <button type="button" (click)="onDelete(employee.id)">delete</button>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<pagination-controls
+  class="page"
+  previousLabel="Prev"
+  nextLabel="Next"
+  (pageChange)="onPageChange($event)"
+></pagination-controls>

@@ -1,0 +1,15 @@
+C:\Practice\CURD_Operation\Employee.CURD.WebApi\Employee.CRUD.Repository\obj\Debug\net6.0\Employee.CRUD.Repository.csproj.AssemblyReference.cache
+C:\Practice\CURD_Operation\Employee.CURD.WebApi\Employee.CRUD.Repository\obj\Debug\net6.0\Employee.CRUD.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice\CURD_Operation\Employee.CURD.WebApi\Employee.CRUD.Repository\obj\Debug\net6.0\Employee.CRUD.Repository.AssemblyInfoInputs.cache
+C:\Practice\CURD_Operation\Employee.CURD.WebApi\Employee.CRUD.Repository\obj\Debug\net6.0\Employee.CRUD.Repository.AssemblyInfo.cs
+C:\Practice\CURD_Operation\Employee.CURD.WebApi\Employee.CRUD.Repository\obj\Debug\net6.0\Employee.CRUD.Repository.csproj.CoreCompileInputs.cache
+C:\Practice\CURD_Operation\Employee.CURD.WebApi\Employee.CRUD.Repository\bin\Debug\net6.0\Employee.CRUD.Repository.deps.json
+C:\Practice\CURD_Operation\Employee.CURD.WebApi\Employee.CRUD.Repository\bin\Debug\net6.0\Employee.CRUD.Repository.dll
+C:\Practice\CURD_Operation\Employee.CURD.WebApi\Employee.CRUD.Repository\bin\Debug\net6.0\Employee.CRUD.Repository.pdb
+C:\Practice\CURD_Operation\Employee.CURD.WebApi\Employee.CRUD.Repository\bin\Debug\net6.0\Employee.CURD.Model.dll
+C:\Practice\CURD_Operation\Employee.CURD.WebApi\Employee.CRUD.Repository\bin\Debug\net6.0\Employee.CURD.Model.pdb
+C:\Practice\CURD_Operation\Employee.CURD.WebApi\Employee.CRUD.Repository\obj\Debug\net6.0\Employee.CRUD.Repository.csproj.CopyComplete
+C:\Practice\CURD_Operation\Employee.CURD.WebApi\Employee.CRUD.Repository\obj\Debug\net6.0\Employee.CRUD.Repository.dll
+C:\Practice\CURD_Operation\Employee.CURD.WebApi\Employee.CRUD.Repository\obj\Debug\net6.0\refint\Employee.CRUD.Repository.dll
+C:\Practice\CURD_Operation\Employee.CURD.WebApi\Employee.CRUD.Repository\obj\Debug\net6.0\Employee.CRUD.Repository.pdb
+C:\Practice\CURD_Operation\Employee.CURD.WebApi\Employee.CRUD.Repository\obj\Debug\net6.0\ref\Employee.CRUD.Repository.dll
